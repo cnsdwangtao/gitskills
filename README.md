@@ -1,3 +1,3 @@
 # gitskills
 first push test txt
-classmate A modify.
+fix conflict of A and B modify.
